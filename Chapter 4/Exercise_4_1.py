@@ -1,4 +1,4 @@
-# Exercise 4.1 for the "Python Crash Book"
+# Exercise 4.1 for the "Python Crash Course" Book
 pizzas = ['pepperoni', 'cheese', 'meat']
 for pizza in pizzas:
 	print(f"I love {pizza} pizza.")
